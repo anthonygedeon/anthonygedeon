@@ -1,1 +1,1 @@
-### Hey! I'm a programmer who loves doing low-level programming. 
+just a programmer who enjoys low-level programming. 
